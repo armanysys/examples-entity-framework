@@ -1,0 +1,5 @@
+{
+  "connectionStrings": {
+    "Pet": "Data Source=ARMANI\\SQLEXPRESS; Initial Catalog=PetProject;Integrated Security=True;Connect Timeout=30;Encrypt=True;Trust Server Certificate=True;Application Intent=ReadWrite;Multi Subnet Failover=False"
+  }
+}
